@@ -41,7 +41,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Cachorro cego"
+        android:text="Comediante"
         android:layout_gravity="center"
         android:layout_marginTop="12dp"
         android:textColor="@color/white"
