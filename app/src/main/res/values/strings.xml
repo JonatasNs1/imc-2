@@ -14,4 +14,13 @@
     <string name="trocar_foto">Trocar Foto</string>
     <string name="dados_autentifica">Dados da autentificação</string>
     <string name="dados_pessoais">dados_pessoais</string>
+    <string name="matenha_peso">Mantenha seu peso sempre atualizado, assim você poderá acompar toda a evolução</string>
+    <string name="vamos_pesar">Vamos nos Pesar?</string>
+    <string name="nivel_atividade">Nível de atividade:</string>
+    <string name="data">20/11/2021</string>
+    <string name="data_pesagem">Data da pesagem:</string>
+    <string name="dados_pessoas">Dados da sua pessoa</string>
+    <string name="novo_peso">Seu novo peso:</string>
+    <string name="kg">68 Kg:</string>
+    <string name="registrar_peso">Registrar peso</string>
 </resources>

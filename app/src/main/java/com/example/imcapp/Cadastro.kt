@@ -35,7 +35,7 @@ class Cadastro : AppCompatActivity() {
         val editor = dados.edit()
         //put - colocar
         editor.putString("email", editEmail.text.toString())
-
+        editor.apply()
 
         return true
     }
