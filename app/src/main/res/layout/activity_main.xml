@@ -95,6 +95,7 @@
                 app:endIconMode="clear_text">
 
                 <EditText
+                    android:id="@+id/edit_login"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:inputType="textEmailAddress"
@@ -112,6 +113,7 @@
                 app:passwordToggleEnabled="true">
 
                 <EditText
+                    android:id="@+id/edit_senha_login"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:inputType="numberPassword"
@@ -158,7 +160,7 @@
                     android:layout_marginEnd="4dp"
                     />
                 <Button
-                    android:id="@+id/buton_criar_conta"
+                    android:id="@+id/btn_Criar"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/login_activity_criar_uma_conta_agora"

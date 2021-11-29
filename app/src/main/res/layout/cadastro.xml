@@ -144,7 +144,7 @@
                     android:id="@+id/edit_novo_Altura"
                     android:layout_width="400dp"
                     android:layout_height="wrap_content"
-                    android:inputType="number" />
+                    android:inputType="numberDecimal" />
 
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -179,12 +179,14 @@
                 <RadioButton
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text ="Feminino"/>
+                    android:text ="Feminino"
+                    android:id="@+id/radio_feminino"/>
 
                 <RadioButton
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text ="Feminino"/>
+                    android:text ="masculino"
+                    android:id="@+id/radio_masculino"/>
 
             </RadioGroup>
 
