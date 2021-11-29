@@ -159,7 +159,8 @@
                     android:id="@+id/edit_novo_data_nascimento"
                     android:layout_width="400dp"
                     android:layout_height="wrap_content"
-                    android:inputType="date" />
+                    android:inputType="date"
+                    android:focusable="false"/>
 
             </com.google.android.material.textfield.TextInputLayout>
 

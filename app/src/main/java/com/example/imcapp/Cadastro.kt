@@ -65,7 +65,7 @@ class Cadastro : AppCompatActivity() {
                         mesFinal = "${month+1}"
                     }
                     var diaFinal = ""
-                    
+
                     if(dayOfMonth < 10){
                         diaFinal = "0$dayOfMonth"
                     }else{
