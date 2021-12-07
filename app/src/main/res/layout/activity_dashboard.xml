@@ -189,7 +189,8 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="120dp"
-            android:layout_marginTop="50dp">
+            android:layout_marginTop="50dp"
+            android:id="@+id/card_pesar_agora">
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
